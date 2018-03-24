@@ -1,0 +1,26 @@
+.gform_wrapper .top_label .gfield_label {
+	font-size: 14px;
+}
+.gform_body input, .gform_body textarea {
+	border: 1px solid;
+	line-height: 30px;
+}
+.gform_body .form-control {
+	border: none;
+}
+.gform_button {
+	background: #27b3c6;
+	color: #fff;
+	font-size: 16px;
+	border: none;
+	font-weight: 600;
+	padding: 13px 45px;
+	border-radius:4px;
+	text-transform: uppercase;
+}
+.gform_button:hover{
+	background:#2196a6;
+}
+.gform_wrapper h3.gform_title {
+	display:none;
+}

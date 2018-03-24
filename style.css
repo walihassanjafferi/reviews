@@ -1,0 +1,26 @@
+/*
+Theme Name: Watch The Review Theme
+Theme URI: https://watchthereview.com/
+Author: Wali Hassan Jafferi
+Author URI: https://www.walihassan.com
+Description: A basic theme using the Bootstrap framework.
+Version: 1.1
+Text Domain: watchthereview
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+@import url('bootstrap/css/fontawesome-all.css');
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css');
+@import url('css/general.css');
+@import url('css/header.css');
+@import url('css/footer.css');
+@import url('css/sidebar.css');
+@import url('css/home.css');
+@import url('css/blog.css');
+@import url('css/YouTubePopUp.css');
+@import url('css/reviews.css');
+@import url('css/media_queries.css');
+@import url('css/contact.css');
+@import url('css/jquery.jslider-all.css');
+
+
